@@ -1,0 +1,14 @@
+#formMusica{
+   height: 30vh;
+    display: flex;
+    flex-direction: column;
+   justify-content: space-evenly;
+   padding: 20px;
+   
+}
+
+p{
+   font-size: 25px;
+   color: green;
+   margin-bottom: 10px;
+}
